@@ -25,8 +25,3 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> 🏫  42 Seoul </h3>
-
-[![seongeun's 42 stats](https://badge42.herokuapp.com/api/stats/seongele)](https://github.com/seongeun42)
-
----
